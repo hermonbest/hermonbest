@@ -49,10 +49,12 @@ Clarity > cleverness | Simple first, scalable later | Code is a tool — problem
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/hermonbest1@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/heribest) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@HERMON HAGOS) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hermonbest1@gmail.com)
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hermonbest&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hermonbest&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hermonbest&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hermonbest)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hermonbest&theme=merko&no-frame=false&no-bg=false&margin-w=4)
